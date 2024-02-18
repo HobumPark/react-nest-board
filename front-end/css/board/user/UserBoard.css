@@ -1,0 +1,49 @@
+
+#user-board{
+  width:100%;
+  height:50px;
+  background-color: #fff;
+  /* background-color: lightgoldenrodyellow; */
+  margin-bottom: 2px;
+  border-bottom: 1px solid #777;;
+}
+#user-board>span{
+  float:left;
+  height:100%;
+  text-align: center;
+  padding-top:12px;
+  box-sizing: border-box;
+}
+#user-board>#no{
+  width:10%;
+  /* background-color: mediumaquamarine; */
+}
+
+#user-board>#title{
+  width:40%;
+  /* background-color: mediumturquoise; */
+  cursor:pointer;
+}
+#user-board>#title>a{
+  color:#000;
+}
+
+#user-board>#writer{
+  width:15%;
+  /* background-color: mintcream; */
+}
+
+#user-board>#write-date{
+  width:15%;
+  /* background-color: mistyrose; */
+}
+
+#user-board>#attach{
+  width:10%;
+  /* background-color: moccasin; */
+}
+
+#user-board>#hits{
+  width:10%;
+  /* background-color: mediumslateblue; */
+}
